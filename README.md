@@ -9,7 +9,7 @@ Esse projeto consistia em gerar um artigo técnico através de IAs.
 ## 🧠 Ferramentas utilizadas
 
 -   [ChatGPT](https://chat.openai.com/)
--   [Copilot](https://copilot.microsoft.com/)
+-   [Microsoft Copilot](https://copilot.microsoft.com/)
 -   [ElevenLabs](https://elevenlabs.io/)
 
 ## 💻 Prompts
@@ -27,3 +27,6 @@ Copilot：
 |     Tag      | Descrição                                                                                                                                                                                                                                                                                       |
 | :----------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   Imagem   | Create a logo with a classic microphone being the main tower of a castle and a knight at the main entrance to the castle. The style of the image should be: isometric, pixel-art game style. |
+
+### ❗ Esclarecimento
+Optei por usar o Microsoft Copilot em vez do MidJourney devido ao mesmo esclarecimento do [projeto do eBook](https://github.com/pedrodearo/dio-lab-eBook).
